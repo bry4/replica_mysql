@@ -11,10 +11,10 @@ from pymysqlreplication.row_event import (
 def main():
 
     MYSQL_SETTINGS = {
-      "host": "104.154.77.170",
+      "host": "",
       "port": 3306,
-      "user": "replicadev",
-      "passwd": "Agosto@2023"
+      "user": "",
+      "passwd": ""
       }
 
     print(">>>listener start streaming to:mysql_data")
