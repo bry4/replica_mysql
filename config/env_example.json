@@ -1,0 +1,6 @@
+{
+    "host": "ip_number",
+    "port": 3306,
+    "user": "user",
+    "pwd": "password"
+}
